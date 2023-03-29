@@ -1,6 +1,5 @@
-Munazza18-README.md
 ## Hi all 👋 I am Munazza ##
-A passionate Data Analyst 
+A passionate Data Analyst🔭  
 
 I am a Data analyst with a passion of finding innovative and cost-effective solutions to challenging problems through experimental designs and methodologies. 
 As a Computer Science graduate while at job, I developed interest in using data analysis and visualization to develop and test hypotheses, 
