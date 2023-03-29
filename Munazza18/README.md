@@ -1,4 +1,4 @@
-##### Munazza18/README.md
+##### Munazza18 /README.md
 
 ## Data Analyst Journey: My GitHub Page 👩‍💻
 I am a data analyst with a passion of finding innovative and cost-effective solutions to challenging problems through experimental designs and methodologies. 
@@ -10,7 +10,7 @@ My GitHub page serves as a platform to showcase my skills and experience in data
 
 •	🌱 I am learning ETL, Cloud Computing and ML
 
-•	👩‍💻 I am looking to collaborate on projects on Machine Learning 
+•	👩‍💻 I am looking to collaborate on projects on Machine Learning
 
 •	📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/munazzarasheed/)
 
